@@ -1,0 +1,151 @@
+order_id,customer_name,product,price,quantity,order_date,city
+1,Ahmed Bennani,Laptop,1200.0,1.0,2024-01-15,Casablanca
+2,Sara El Amrani,Phone,800.0,2.0,2024-01-15,Rabat
+6,Karim Idrissi,Headphones,50.0,1.0,2024-01-18,Rabat
+7,Ahmed Bennani,Laptop,1200.0,1.0,2024-01-15,Casablanca
+8,Sara El Amrani,Phone,800.0,2.0,2024-01-15,Rabat
+12,Karim Idrissi,Headphones,50.0,1.0,2024-01-18,Rabat
+13,Ahmed Bennani,Laptop,1200.0,1.0,2024-01-15,Casablanca
+14,Sara El Amrani,Phone,800.0,2.0,2024-01-15,Rabat
+18,Karim Idrissi,Headphones,50.0,1.0,2024-01-18,Rabat
+19,Ahmed Bennani,Laptop,1200.0,1.0,2024-01-15,Casablanca
+20,Sara El Amrani,Phone,800.0,2.0,2024-01-15,Rabat
+24,Karim Idrissi,Headphones,50.0,1.0,2024-01-18,Rabat
+25,Ahmed Bennani,Laptop,1200.0,1.0,2024-01-15,Casablanca
+26,Sara El Amrani,Phone,800.0,2.0,2024-01-15,Rabat
+30,Karim Idrissi,Headphones,50.0,1.0,2024-01-18,Rabat
+31,Ahmed Bennani,Laptop,1200.0,1.0,2024-01-15,Casablanca
+32,Sara El Amrani,Phone,800.0,2.0,2024-01-15,Rabat
+36,Karim Idrissi,Headphones,50.0,1.0,2024-01-18,Rabat
+37,Ahmed Bennani,Laptop,1200.0,1.0,2024-01-15,Casablanca
+38,Sara El Amrani,Phone,800.0,2.0,2024-01-15,Rabat
+42,Karim Idrissi,Headphones,50.0,1.0,2024-01-18,Rabat
+43,Ahmed Bennani,Laptop,1200.0,1.0,2024-01-15,Casablanca
+44,Sara El Amrani,Phone,800.0,2.0,2024-01-15,Rabat
+48,Karim Idrissi,Headphones,50.0,1.0,2024-01-18,Rabat
+49,Ahmed Bennani,Laptop,1200.0,1.0,2024-01-15,Casablanca
+50,Sara El Amrani,Phone,800.0,2.0,2024-01-15,Rabat
+54,Karim Idrissi,Headphones,50.0,1.0,2024-01-18,Rabat
+55,Ahmed Bennani,Laptop,1200.0,1.0,2024-01-15,Casablanca
+56,Sara El Amrani,Phone,800.0,2.0,2024-01-15,Rabat
+60,Karim Idrissi,Headphones,50.0,1.0,2024-01-18,Rabat
+61,Ahmed Bennani,Laptop,1200.0,1.0,2024-01-15,Casablanca
+62,Sara El Amrani,Phone,800.0,2.0,2024-01-15,Rabat
+66,Karim Idrissi,Headphones,50.0,1.0,2024-01-18,Rabat
+67,Ahmed Bennani,Laptop,1200.0,1.0,2024-01-15,Casablanca
+68,Sara El Amrani,Phone,800.0,2.0,2024-01-15,Rabat
+72,Karim Idrissi,Headphones,50.0,1.0,2024-01-18,Rabat
+73,Ahmed Bennani,Laptop,1200.0,1.0,2024-01-15,Casablanca
+74,Sara El Amrani,Phone,800.0,2.0,2024-01-15,Rabat
+78,Karim Idrissi,Headphones,50.0,1.0,2024-01-18,Rabat
+79,Ahmed Bennani,Laptop,1200.0,1.0,2024-01-15,Casablanca
+80,Sara El Amrani,Phone,800.0,2.0,2024-01-15,Rabat
+84,Karim Idrissi,Headphones,50.0,1.0,2024-01-18,Rabat
+85,Ahmed Bennani,Laptop,1200.0,1.0,2024-01-15,Casablanca
+86,Sara El Amrani,Phone,800.0,2.0,2024-01-15,Rabat
+90,Karim Idrissi,Headphones,50.0,1.0,2024-01-18,Rabat
+91,Ahmed Bennani,Laptop,1200.0,1.0,2024-01-15,Casablanca
+92,Sara El Amrani,Phone,800.0,2.0,2024-01-15,Rabat
+96,Karim Idrissi,Headphones,50.0,1.0,2024-01-18,Rabat
+97,Ahmed Bennani,Laptop,1200.0,1.0,2024-01-15,Casablanca
+98,Sara El Amrani,Phone,800.0,2.0,2024-01-15,Rabat
+102,Karim Idrissi,Headphones,50.0,1.0,2024-01-18,Rabat
+103,Ahmed Bennani,Laptop,1200.0,1.0,2024-01-15,Casablanca
+104,Sara El Amrani,Phone,800.0,2.0,2024-01-15,Rabat
+108,Karim Idrissi,Headphones,50.0,1.0,2024-01-18,Rabat
+109,Ahmed Bennani,Laptop,1200.0,1.0,2024-01-15,Casablanca
+110,Sara El Amrani,Phone,800.0,2.0,2024-01-15,Rabat
+114,Karim Idrissi,Headphones,50.0,1.0,2024-01-18,Rabat
+115,Ahmed Bennani,Laptop,1200.0,1.0,2024-01-15,Casablanca
+116,Sara El Amrani,Phone,800.0,2.0,2024-01-15,Rabat
+120,Karim Idrissi,Headphones,50.0,1.0,2024-01-18,Rabat
+121,Ahmed Bennani,Laptop,1200.0,1.0,2024-01-15,Casablanca
+122,Sara El Amrani,Phone,800.0,2.0,2024-01-15,Rabat
+126,Karim Idrissi,Headphones,50.0,1.0,2024-01-18,Rabat
+127,Ahmed Bennani,Laptop,1200.0,1.0,2024-01-15,Casablanca
+128,Sara El Amrani,Phone,800.0,2.0,2024-01-15,Rabat
+132,Karim Idrissi,Headphones,50.0,1.0,2024-01-18,Rabat
+133,Ahmed Bennani,Laptop,1200.0,1.0,2024-01-15,Casablanca
+134,Sara El Amrani,Phone,800.0,2.0,2024-01-15,Rabat
+138,Karim Idrissi,Headphones,50.0,1.0,2024-01-18,Rabat
+139,Ahmed Bennani,Laptop,1200.0,1.0,2024-01-15,Casablanca
+140,Sara El Amrani,Phone,800.0,2.0,2024-01-15,Rabat
+144,Karim Idrissi,Headphones,50.0,1.0,2024-01-18,Rabat
+145,Ahmed Bennani,Laptop,1200.0,1.0,2024-01-15,Casablanca
+146,Sara El Amrani,Phone,800.0,2.0,2024-01-15,Rabat
+150,Karim Idrissi,Headphones,50.0,1.0,2024-01-18,Rabat
+151,Ahmed Bennani,Laptop,1200.0,1.0,2024-01-15,Casablanca
+152,Sara El Amrani,Phone,800.0,2.0,2024-01-15,Rabat
+156,Karim Idrissi,Headphones,50.0,1.0,2024-01-18,Rabat
+157,Ahmed Bennani,Laptop,1200.0,1.0,2024-01-15,Casablanca
+158,Sara El Amrani,Phone,800.0,2.0,2024-01-15,Rabat
+162,Karim Idrissi,Headphones,50.0,1.0,2024-01-18,Rabat
+163,Ahmed Bennani,Laptop,1200.0,1.0,2024-01-15,Casablanca
+164,Sara El Amrani,Phone,800.0,2.0,2024-01-15,Rabat
+168,Karim Idrissi,Headphones,50.0,1.0,2024-01-18,Rabat
+169,Ahmed Bennani,Laptop,1200.0,1.0,2024-01-15,Casablanca
+170,Sara El Amrani,Phone,800.0,2.0,2024-01-15,Rabat
+174,Karim Idrissi,Headphones,50.0,1.0,2024-01-18,Rabat
+175,Ahmed Bennani,Laptop,1200.0,1.0,2024-01-15,Casablanca
+176,Sara El Amrani,Phone,800.0,2.0,2024-01-15,Rabat
+180,Karim Idrissi,Headphones,50.0,1.0,2024-01-18,Rabat
+181,Ahmed Bennani,Laptop,1200.0,1.0,2024-01-15,Casablanca
+182,Sara El Amrani,Phone,800.0,2.0,2024-01-15,Rabat
+186,Karim Idrissi,Headphones,50.0,1.0,2024-01-18,Rabat
+187,Ahmed Bennani,Laptop,1200.0,1.0,2024-01-15,Casablanca
+188,Sara El Amrani,Phone,800.0,2.0,2024-01-15,Rabat
+192,Karim Idrissi,Headphones,50.0,1.0,2024-01-18,Rabat
+193,Ahmed Bennani,Laptop,1200.0,1.0,2024-01-15,Casablanca
+194,Sara El Amrani,Phone,800.0,2.0,2024-01-15,Rabat
+198,Karim Idrissi,Headphones,50.0,1.0,2024-01-18,Rabat
+199,Ahmed Bennani,Laptop,1200.0,1.0,2024-01-15,Casablanca
+200,Sara El Amrani,Phone,800.0,2.0,2024-01-15,Rabat
+204,Karim Idrissi,Headphones,50.0,1.0,2024-01-18,Rabat
+205,Ahmed Bennani,Laptop,1200.0,1.0,2024-01-15,Casablanca
+206,Sara El Amrani,Phone,800.0,2.0,2024-01-15,Rabat
+210,Karim Idrissi,Headphones,50.0,1.0,2024-01-18,Rabat
+211,Ahmed Bennani,Laptop,1200.0,1.0,2024-01-15,Casablanca
+212,Sara El Amrani,Phone,800.0,2.0,2024-01-15,Rabat
+216,Karim Idrissi,Headphones,50.0,1.0,2024-01-18,Rabat
+217,Ahmed Bennani,Laptop,1200.0,1.0,2024-01-15,Casablanca
+218,Sara El Amrani,Phone,800.0,2.0,2024-01-15,Rabat
+222,Karim Idrissi,Headphones,50.0,1.0,2024-01-18,Rabat
+223,Ahmed Bennani,Laptop,1200.0,1.0,2024-01-15,Casablanca
+224,Sara El Amrani,Phone,800.0,2.0,2024-01-15,Rabat
+228,Karim Idrissi,Headphones,50.0,1.0,2024-01-18,Rabat
+229,Ahmed Bennani,Laptop,1200.0,1.0,2024-01-15,Casablanca
+230,Sara El Amrani,Phone,800.0,2.0,2024-01-15,Rabat
+234,Karim Idrissi,Headphones,50.0,1.0,2024-01-18,Rabat
+235,Ahmed Bennani,Laptop,1200.0,1.0,2024-01-15,Casablanca
+236,Sara El Amrani,Phone,800.0,2.0,2024-01-15,Rabat
+240,Karim Idrissi,Headphones,50.0,1.0,2024-01-18,Rabat
+241,Ahmed Bennani,Laptop,1200.0,1.0,2024-01-15,Casablanca
+242,Sara El Amrani,Phone,800.0,2.0,2024-01-15,Rabat
+246,Karim Idrissi,Headphones,50.0,1.0,2024-01-18,Rabat
+247,Ahmed Bennani,Laptop,1200.0,1.0,2024-01-15,Casablanca
+248,Sara El Amrani,Phone,800.0,2.0,2024-01-15,Rabat
+252,Karim Idrissi,Headphones,50.0,1.0,2024-01-18,Rabat
+253,Ahmed Bennani,Laptop,1200.0,1.0,2024-01-15,Casablanca
+254,Sara El Amrani,Phone,800.0,2.0,2024-01-15,Rabat
+258,Karim Idrissi,Headphones,50.0,1.0,2024-01-18,Rabat
+259,Ahmed Bennani,Laptop,1200.0,1.0,2024-01-15,Casablanca
+260,Sara El Amrani,Phone,800.0,2.0,2024-01-15,Rabat
+264,Karim Idrissi,Headphones,50.0,1.0,2024-01-18,Rabat
+265,Ahmed Bennani,Laptop,1200.0,1.0,2024-01-15,Casablanca
+266,Sara El Amrani,Phone,800.0,2.0,2024-01-15,Rabat
+270,Karim Idrissi,Headphones,50.0,1.0,2024-01-18,Rabat
+271,Ahmed Bennani,Laptop,1200.0,1.0,2024-01-15,Casablanca
+272,Sara El Amrani,Phone,800.0,2.0,2024-01-15,Rabat
+276,Karim Idrissi,Headphones,50.0,1.0,2024-01-18,Rabat
+277,Ahmed Bennani,Laptop,1200.0,1.0,2024-01-15,Casablanca
+278,Sara El Amrani,Phone,800.0,2.0,2024-01-15,Rabat
+282,Karim Idrissi,Headphones,50.0,1.0,2024-01-18,Rabat
+283,Ahmed Bennani,Laptop,1200.0,1.0,2024-01-15,Casablanca
+284,Sara El Amrani,Phone,800.0,2.0,2024-01-15,Rabat
+288,Karim Idrissi,Headphones,50.0,1.0,2024-01-18,Rabat
+289,Ahmed Bennani,Laptop,1200.0,1.0,2024-01-15,Casablanca
+290,Sara El Amrani,Phone,800.0,2.0,2024-01-15,Rabat
+294,Karim Idrissi,Headphones,50.0,1.0,2024-01-18,Rabat
+295,Ahmed Bennani,Laptop,1200.0,1.0,2024-01-15,Casablanca
+296,Sara El Amrani,Phone,800.0,2.0,2024-01-15,Rabat
+300,Karim Idrissi,Headphones,50.0,1.0,2024-01-18,Rabat
